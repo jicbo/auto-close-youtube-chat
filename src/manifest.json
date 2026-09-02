@@ -3,6 +3,14 @@
   "name": "Auto-Close YouTube Chat",
   "version": "1.0",
   "description": "Automatically closes the YouTube chat panel when joining a live stream or VOD.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "@auto-close-youtube-chat",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
   "icons": {
     "48": "icon-48.svg",
     "96": "icon-96.svg"
