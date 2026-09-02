@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Auto-Close YouTube Chat",
   "version": "1.0",
-  "description": "Automatically closes the YouTube chat panel when joining a stream.",
+  "description": "Automatically closes the YouTube chat panel when joining a live stream or VOD.",
   "icons": {
     "48": "icon-48.svg",
     "96": "icon-96.svg"
